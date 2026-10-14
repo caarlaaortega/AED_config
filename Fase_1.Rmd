@@ -1,0 +1,11 @@
+---
+title: "Fase_1"
+author: "Carla Ortega Fernández"
+date: "2026-10-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
